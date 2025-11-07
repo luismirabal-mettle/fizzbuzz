@@ -20,3 +20,11 @@ The implementation covers the following test scenarios:
 
 ## Task
 Use TDD to implement the function that turns a number into the FizzBuzz output.
+
+## Stretch goal
+
+If you're done, you can try to introduce these new rules:
+- Multiples of 7 are "Whizz"
+- Multiples of 11 are "Bang"
+
+That means for example that multiples of 3 & 7 are "FizzWhizz", multiples of 5 & 11 are "BuzzBang", etc.
